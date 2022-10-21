@@ -1,0 +1,3 @@
+{"drop_cols":"None",
+"cat_cols":["Pregnancies", "Outcome"],
+"factor":"1"}
